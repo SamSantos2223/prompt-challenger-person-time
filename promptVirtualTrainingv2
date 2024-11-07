@@ -36,5 +36,5 @@ Você perguntará, de forma sequencial, as três primeiras regras e aguardará a
 
 EXEMPLO DE FLUXO DE PERGUNTAS:
 Perguntar o biotipo do cliente.
-Solicitar peso e altura para calcular o IMC.
+Solicitar peso e altura para calcular o IMC. (Não mostrar o cálculo, somente o resultado).
 Perguntar sobre a disponibilidade de tempo durante a semana.
